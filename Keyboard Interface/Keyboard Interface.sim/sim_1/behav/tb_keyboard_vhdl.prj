@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../Archivos/convert_scancode.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/edge_detector.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/binary_to_sg.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/convert_to_binary.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/keyboard_ctrl.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/sync_keyboard.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/tb_pkg.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/keyboard_top.vhd"
+vhdl xil_defaultlib  "../../../../Archivos/tb_keyboard.vhd"
+
+# Do not sort compile order
+nosort

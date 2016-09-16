@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/convert_scancode.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity convert_scancode
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/edge_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity edge_detector
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/binary_to_sg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity binary_to_sg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/convert_to_binary.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity convert_to_binary
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/keyboard_ctrl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity keyboard_ctrl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/sync_keyboard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sync_keyboard
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/tb_pkg.vhd" into library xil_defaultlib
+WARNING: [VRFC 10-393] cannot access 'ramfile' from inside pure function 'getcodefromfile'. [C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/tb_pkg.vhd:46]
+WARNING: [VRFC 10-393] cannot access 'ramfile' from inside pure function 'getcodefromfile'. [C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/tb_pkg.vhd:42]
+WARNING: [VRFC 10-393] cannot access 'ramfile' from inside pure function 'getcodefromfile'. [C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/tb_pkg.vhd:51]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/keyboard_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity keyboard_top
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Javier/Documents/Embedded electronics/Introduction to structured VLSI design/Laboratorios/Laboratorio 2/Archivos/tb_keyboard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_keyboard
