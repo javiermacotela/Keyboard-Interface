@@ -1,37 +1,38 @@
-Unable to capture context for thread 8008 in process 2468, can not generate back trace
-Exception at PC 0x00007FFAE24BBB93
+Unable to capture context for thread 9908 in process 9400, can not generate back trace
+Exception at PC 0x00007FFCF167BB93
 Printing stacktrace...
 
-Unable to capture context for thread 8008 in process 2468, can not generate back trace
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-Exception at PC 0x00007FFB425A7788
-[0]  [0x00007FFAE24BBB93]
-[1]  [0x00007FFAE24BBB93]
-[2]  [0x00007FFAE24BB4A1]
-[3]  [0x00007FFAE24BB3EF]
-[4]  [0x00007FFAE24A19FE]
-[5]  [0x00007FFAE24A0ED1]
-[6]  [0x00007FFAE24A0D76]
-[7]  [0x00007FFAE24479F6]
-[8]  [0x00007FFAE2437AFB]
-[9]  [0x00007FFAE255E90A]
-[10]  [0x00007FFAE2579F87]
-[11]  [0x00007FFAE257A05F]
-[12] (BaseThreadInitThunk+0x14) [0x00007FFB44678364]
-[13] (RtlUserThreadStart+0x21) [0x00007FFB45355E91]
+Unable to capture context for thread 9908 in process 9400, can not generate back trace
+Exception at PC 0x00007FFD4C507788
+Unable to capture context for thread 4444 in process 9400, can not generate back trace
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+Exception at PC 0x00007FFD4C507788
+[0]  [0x00007FFCF167BB93]
+[1]  [0x00007FFCF167BB93]
+[2]  [0x00007FFCF167B4A1]
+[3]  [0x00007FFCF167B3EF]
+[4]  [0x00007FFCF16619FE]
+[5]  [0x00007FFCF1660ED1]
+[6]  [0x00007FFCF1660D76]
+[7]  [0x00007FFCF16079F6]
+[8]  [0x00007FFCF15F7AFB]
+[9]  [0x00007FFCF171E90A]
+[10]  [0x00007FFCF1739F87]
+[11]  [0x00007FFCF173A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFD4CB98364]
+[13] (RtlUserThreadStart+0x21) [0x00007FFD4F665E91]
 Done
